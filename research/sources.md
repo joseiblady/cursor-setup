@@ -194,20 +194,26 @@ LinkedIn content strategy space.
 
 ---
 
-### 9. Violette de Ayala
-- **LinkedIn:** https://www.linkedin.com/in/violettedeayala
-- **Content formats:** Text posts, personal narrative, community content
+### 9. Andrei Zinkevich
+- **LinkedIn:** https://www.linkedin.com/in/azinkevich
+- **Website:** https://fullfunnel.io
+- **Podcast:** Full-Funnel B2B Marketing Show
 - **Date added:** 2025-04-21
 
-**Why she's on this list:**
-De Ayala's inclusion addresses a specific gap in the research: 
-the human, community-driven dimension of organic LinkedIn growth. 
-She uses LinkedIn as her primary — and essentially sole — B2B 
-acquisition channel, and her content consistently converts without 
-reading as promotional. Studying her approach provides insight into 
-the authenticity signals that LinkedIn's algorithm and human readers 
-both respond to, particularly relevant when the goal is sustained 
-inbound generation rather than campaign-driven spikes.
+**Why he's on this list:**
+Zinkevich is the co-founder of FullFunnel.io and one of the most
+rigorous practitioners of account-based marketing and demand
+generation for B2B SaaS on LinkedIn. What distinguishes him from
+most voices in this space is his insistence on connecting content
+strategy to pipeline metrics — he doesn't talk about LinkedIn
+presence in isolation, but as one component of a full-funnel
+system that includes sales, ABM, and revenue attribution. His
+content is consistently one of the most technically dense on the
+platform, and his audience reflects that: mostly senior marketers
+and founders who are building serious GTM operations, not chasing
+follower counts. For this research, he represents the demand
+generation perspective — the clearest articulation of how organic
+LinkedIn content fits into a broader revenue architecture.
 
 ---
 
@@ -228,17 +234,3 @@ from them. Understanding his system is a prerequisite for understanding
 the current conversation around B2B LinkedIn content strategy. 
 He is the baseline.
 
----
-
-## Notes on Sources Not Included
-
-Several high-profile names in the LinkedIn content space were 
-considered and excluded:
-
-- **Gary Vaynerchuk** — Too broad and volume-driven. His approach 
-  doesn't translate to resource-constrained B2B SaaS teams.
-- **Neil Patel** — Strong on SEO and paid; organic LinkedIn content 
-  is not his primary practice.
-- **Generic "LinkedIn coaches"** — Excluded as a category. Anyone 
-  whose primary product is teaching LinkedIn growth was deprioritized 
-  in favor of practitioners who use LinkedIn to sell something else.
