@@ -44,3 +44,42 @@ con `Ctrl + Shift + P`.
 - **Sistema operativo:** Windows
 - **Editor:** Cursor IDE
 - **Control de versiones:** Git + GitHub
+
+
+## Research Progress
+
+### Topic
+LinkedIn Organic Content Strategy for B2B SaaS
+
+### Why this topic
+LinkedIn is the primary channel where HR managers, founders, and 
+operations leads — 100Hires' core ICP — make high-consideration 
+purchasing decisions. Understanding how top practitioners use organic 
+content to generate pipeline is directly applicable to this role 
+from day one.
+
+### Experts collected
+
+| # | Expert | Focus | Posts | Status |
+|---|--------|-------|-------|--------|
+| 1 | Richard van der Blom | Algorithm research & data | 3 | ✅ Done |
+| 2 | Sara Stella Lattanzio | B2B GTM & content strategy | 2 | ✅ Done |
+| 3 | Thibaut Souyris | Social selling & creator economy | 3 | ✅ Done |
+| 4 | Oren Greenberg | AI-native GTM & original data | 3 | ✅ Done |
+| 5 | Katelyn Bourgoin | Buyer psychology | - | 🔄 Pending |
+| 6 | Liam Dunne | Founder-led organic growth | - | 🔄 Pending |
+| 7 | Hailey Friedman | SaaS growth on lean budgets | - | 🔄 Pending |
+| 8 | Nemanja Zivkovic | B2B demand generation | - | 🔄 Pending |
+| 9 | Andrei Zinkevich | ABM & full-funnel B2B | - | 🔄 Pending |
+| 10 | Justin Welsh | Founder-led content at scale | - | 🔄 Pending |
+
+### Repository structure
+/research
+├── sources.md
+└── linkedin-posts/
+├── richard-van-der-blom.md
+├── sara-stella-lattanzio.md
+├── thibaut-souyris.md
+└── oren-greenberg.md
+### Last updated
+2025-04-21
