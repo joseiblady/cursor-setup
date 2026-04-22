@@ -118,6 +118,31 @@ Thanks to Dieter Schmid and Valerio Stallone, PhD for the opportunity!
 
 ---
 
+## Post 3
+**Date:** 1 week ago (approx. April 14, 2025)
+**URL:** https://www.linkedin.com/posts/saralattanzio_bulletproof-tip-for-standing-out-on-linkedin-activity-7449432962472976384-mSoG
+**Approximate engagement:** 73 likes · 77 comments · 1 repost
+**Format:** Text
+
+Bulletproof tip for standing out on LinkedIn this week [certified 
+by 10 years of marketing experience]:
+
+Post about literally anything else besides Justin Bieber's Coachella 
+performance.
+
+🐶 Your dog. Your lunch. 🍱
+A workflow that's half-baked and only works on your screenshots.
+
+By now, every human on the planet with a phone has seen the headlines.
+Half of LinkedIn has a hot take. The other half will post one in 
+2.5 hrs.
+
+And no, before you ask...
+
+It didn't teach us anything about B2B marketing.
+
+---
+
 ## Key Patterns Observed
 
 - **Criticism as credibility:** Lattanzio's most engaging content 
@@ -135,8 +160,13 @@ Thanks to Dieter Schmid and Valerio Stallone, PhD for the opportunity!
   one of the most effective organic lead generation patterns on 
   LinkedIn and almost impossible to fake.
 
-- **Polls as conversation starters, not vanity metrics:** Her poll 
-  isn't there for engagement — it's there to surface the audience's 
-  frustration and validate her thesis. The comments become the real 
-  content. This is a sophisticated use of LinkedIn's native formats 
-  that most B2B brands completely miss.
+- **Humor as a positioning tool:** Post 3 is the clearest example 
+  of Lattanzio using wit to make a serious point. By mocking the 
+  LinkedIn trend of jumping on viral news stories, she simultaneously 
+  entertains her audience and reinforces her core thesis: B2B content 
+  should serve the buyer, not chase the algorithm. The post generated 
+  77 comments — more than Posts 1 and 2 combined — which confirms 
+  that on LinkedIn, a well-timed contrarian joke outperforms most 
+  tactical frameworks. For B2B SaaS, this pattern is instructive: 
+  humor that punches at shared industry frustrations builds faster 
+  trust than any educational carousel.
