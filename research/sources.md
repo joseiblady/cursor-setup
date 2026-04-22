@@ -123,7 +123,7 @@ of a source.
 ---
 
 ### 5. Katelyn Bourgoin
-- **LinkedIn:** https://www.linkedin.com/in/katelynbourgoin
+- **LinkedIn:** https://www.linkedin.com/in/katebour
 - **Website:** https://customercamp.co
 - **Newsletter:** Why We Buy
 - **Content formats:** Carousels, text posts, newsletter
@@ -144,7 +144,7 @@ content that generates pipeline and content that generates likes.
 ---
 
 ### 6. Liam Dunne
-- **LinkedIn:** https://www.linkedin.com/in/liamdunne_
+- **LinkedIn:** https://www.linkedin.com/in/liamdunne05
 - **Content formats:** Text posts, case studies, build-in-public content
 - **Date added:** 2025-04-21
 
@@ -161,7 +161,7 @@ when a solo operator implements it from zero.
 ---
 
 ### 7. Hailey Friedman
-- **LinkedIn:** https://www.linkedin.com/in/haileyfriedman
+- **LinkedIn:** https://www.linkedin.com/in/hailey-friedman-44897734
 - **Website:** https://growthmarketingpro.com
 - **Content formats:** Text posts, carousels, tutorials
 - **Date added:** 2025-04-21
@@ -178,8 +178,7 @@ companies like 100Hires operate in.
 ---
 
 ### 8. Nemanja Zivkovic
-- **LinkedIn:** https://www.linkedin.com/in/nemanjamarketing
-- **Website:** https://funkymarketing.net
+- **LinkedIn:** https://www.linkedin.com/in/zivkovicnemanja
 - **Podcast:** Funky Marketing Show
 - **Content formats:** Text posts, podcast, video interviews
 - **Date added:** 2025-04-21
@@ -196,7 +195,7 @@ LinkedIn content strategy space.
 ---
 
 ### 9. Violette de Ayala
-- **LinkedIn:** https://www.linkedin.com/in/violetdeayala
+- **LinkedIn:** https://www.linkedin.com/in/violettedeayala
 - **Content formats:** Text posts, personal narrative, community content
 - **Date added:** 2025-04-21
 
